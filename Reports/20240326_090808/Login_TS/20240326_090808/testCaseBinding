@@ -1,0 +1,6 @@
+{"testCaseName":"Test Cases/Login_TC","testCaseId":"Test Cases/Login_TC","iterationVariableName":"","bindedValues":{"password":"\u0027secret_sauce\u0027"}}
+{"testCaseName":"Test Cases/Login_TC","testCaseId":"Test Cases/Login_TC","iterationVariableName":"","bindedValues":{"username":"\u0027error_user\u0027"}}
+{"testCaseName":"Test Cases/Login_TC","testCaseId":"Test Cases/Login_TC","iterationVariableName":""}
+{"testCaseName":"Test Cases/Login_TC","testCaseId":"Test Cases/Login_TC","iterationVariableName":"","bindedValues":{"password":"\u0027secret_sauce\u0027","username":"\u0027a\u0027"}}
+{"testCaseName":"Test Cases/Login_TC","testCaseId":"Test Cases/Login_TC","iterationVariableName":"","bindedValues":{"password":"\u0027a\u0027","username":"\u0027error_user\u0027"}}
+{"testCaseName":"Test Cases/Login_TC","testCaseId":"Test Cases/Login_TC","iterationVariableName":"","bindedValues":{"password":"\u0027secret_sauce\u0027","username":"\u0027error_user\u0027"}}
